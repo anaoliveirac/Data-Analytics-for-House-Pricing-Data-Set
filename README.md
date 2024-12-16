@@ -42,7 +42,7 @@ The dataset contains house sale prices for King County, Washington, including ho
 
 ## Project Tasks  
 
-This project includes answering ten questions that involve:  
+This project includes answering questions that involve:  
 1. **Exploratory Data Analysis (EDA)**:  
    - Understanding the dataset structure.  
    - Analyzing distributions, correlations, and trends in housing features.  
@@ -58,5 +58,3 @@ This project includes answering ten questions that involve:
    - Implementing regression models to predict housing prices.  
    - Evaluating model performance using metrics like Mean Squared Error (MSE) and R².  
 
-5. **Sharing Results**:  
-   - Saving final charts, tables, and results as screenshots for peer review.  
